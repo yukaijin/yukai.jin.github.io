@@ -5,10 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#   
-
-# Bio
-
 I joined VMware SH in 2016 after receiving my Master's degree of Software Engineering, Nanjing University. As a member in developing and maintaining the Central Test Platform of VMware, I needed to collaborate with product testers to review test reports. It's a time-consuming task, and I hoped to leverage some methods to either categorize or classify test reports in facilitating this work. During my experience of learning and applying language models (LSTM, Transformers, BERT, Megatron, etc) on handling test reports, I gain certain level of understanding and very strong interests in language model. Exploring new features and possibility always excite me a lot. As a result, I hope I can be fully immersed in development and investigation in the area.
 
 # Paper
