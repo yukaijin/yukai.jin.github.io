@@ -21,7 +21,7 @@ repository               : "yukaijin/yukaijin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myphotoatseattle.png"
+  avatar           : "myphoto.jpg"
   name             : "Yukai Jin"
   pronouns         : # example: "she/her"  
   bio              : "Senior Member of Technique Staff"
