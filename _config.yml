@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yukai Jin"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yukai Jin"
 description              : &description "personal description"
 url                      : https://yukaijin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "yukaijin/yukaijin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hakase.jfif"
   name             : "Yukai Jin"
   pronouns         : # example: "she/her"  
   bio              : "Devops engineer"
