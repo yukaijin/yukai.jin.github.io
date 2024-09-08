@@ -7,7 +7,6 @@ redirect_from:
 ---
 # Bio
 
-
 # Paper
 
 [The Decodable Sentence-BERT](https://yukaijin.github.io/files/2024-The_Decodable_Sentence_BERT_trained_for_VMware_Info-Retrieval_System(5pages).pdf)
@@ -39,9 +38,10 @@ redirect_from:
 * In this paper, We present a service of machine learning over container cloud of Kubernetes on infrastructure of VMware internal cloud with CPU and GPU support. The service has user-friendly interface and consists of several micro services to launch TensorFlow container to train models. It aims to manage large computing resources in a center place to reduce company costs; it saves time for developers and data scientists to configure distributed machine learning platform. We present experiments on the performance comparison between CPU, GPU, multiple CPUs on our service.
 
 # References
-[[1] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-[[2] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-[[3] RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
-[[4] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)
-[[5] Attention is not Explaination](https://aclanthology.org/N19-1357/)
+
+[[1] Attention Is All You Need](https://arxiv.org/abs/1706.03762)\
+[[2] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)\
+[[3] RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)\
+[[4] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)\
+[[5] Attention is not Explaination](https://aclanthology.org/N19-1357/) \
 [[6] Attention is not not Explaination](https://arxiv.org/abs/1908.04626)
