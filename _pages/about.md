@@ -5,9 +5,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I joined VMware SH in 2016 after receiving my Master's degree of Software Engineering, Nanjing University. As a member in developing and maintaining the Central Test Platform of VMware, I needed to collaborate with product testers to review test reports. It's a time-consuming task, and I hoped to leverage some methods to either categorize or classify test reports in facilitating this work. During my experience of learning and applying language models (LSTM, Transformers, BERT, Megatron, etc) on handling test reports, I gain certain level of understanding and very strong interests in language model. Exploring new features and possibility always excite me a lot. As a result, I hope I can be fully immersed in development and investigation in the area. 
+# Bio
+
+I joined VMware SH in 2016 after receiving my Master's degree of Software Engineering, Nanjing University. As a member in developing and maintaining the Central Test Platform of VMware, I needed to collaborate with product testers to review test reports. It's a time-consuming task, and I hoped to leverage some methods to either categorize or classify test reports in facilitating this work. During my experience of learning and applying language models (LSTM, Transformers, BERT, Megatron, etc) on handling test reports, I gain certain level of understanding and very strong interests in language model. Exploring new features and possibility always excite me a lot. As a result, I hope I can be fully immersed in development and investigation in the area.
 
 # Paper
+
 [The Decodable Sentence-BERT](https://yukaijin.github.io/files/2024-The_Decodable_Sentence_BERT_trained_for_VMware_Info-Retrieval_System(5pages).pdf)
 
 * In this paper, we present the Decodable Sentence-BERT, a modification in both model architecture and training tasks to further extend the model’s ability. We add Decoder Transformers stacks on top of the Sentence-BERT and derive the original sentences through the Decoder stacks from the last hidden states of Sentence-BERT. It not only keeps all the ability of the Sentence-BERT but also enables the model to recover the original sentence from the sentence embedding - we can drop the original sentences after embedding. What’s more, we can use the accuracy of recovering sentences to indicate the confidence of classification tasks during inference, which is more reliable than the traditional confidence we used.
@@ -38,9 +41,9 @@ I joined VMware SH in 2016 after receiving my Master's degree of Software Engine
 
 # References
 
-[[1] Attention Is All You Need](https://arxiv.org/abs/1706.03762)\
-[[2] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)\
-[[3] RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)\
-[[4] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)\
-[[5] Attention is not Explaination](https://aclanthology.org/N19-1357/) \
+[[1] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+[[2] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+[[3] RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
+[[4] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)
+[[5] Attention is not Explaination](https://aclanthology.org/N19-1357/) 
 [[6] Attention is not not Explaination](https://arxiv.org/abs/1908.04626)
