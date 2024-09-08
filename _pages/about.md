@@ -39,9 +39,9 @@ I joined VMware SH in 2016 after receiving my Master's degree of Software Engine
 
 # References
 
-[[1] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-[[2] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-[[3] RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
-[[4] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)
-[[5] Attention is not Explaination](https://aclanthology.org/N19-1357/) 
+[[1] Attention Is All You Need](https://arxiv.org/abs/1706.03762)\
+[[2] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)\
+[[3] RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)\
+[[4] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)\
+[[5] Attention is not Explaination](https://aclanthology.org/N19-1357/)\
 [[6] Attention is not not Explaination](https://arxiv.org/abs/1908.04626)
