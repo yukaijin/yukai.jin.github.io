@@ -7,7 +7,6 @@ redirect_from:
 ---
 I joined VMware SH in 2016 after receiving my Master's degree of Software Engineering, Nanjing University. As a member in developing and maintaining the Central Test Platform of VMware, I needed to collaborate with product testers to review test reports. It's a time-consuming task, and I hoped to leverage some methods to either categorize or classify test reports in facilitating this work. During my experience of learning and applying language models (LSTM, Transformers, BERT, Megatron, etc) on handling test reports, I gain certain level of understanding and very strong interests. Exploring new features and possibility always excite me a lot. As a result, I hope I can be fully immersed in the development and investigation in the area.
 
-
 # Paper
 
 [The Decodable Sentence-BERT (2023)](https://yukaijin.github.io/files/2024-The_Decodable_Sentence_BERT_trained_for_VMware_Info-Retrieval_System(5pages).pdf)
@@ -38,11 +37,16 @@ I joined VMware SH in 2016 after receiving my Master's degree of Software Engine
 
 * In this paper, We present a service of machine learning over container cloud of Kubernetes on infrastructure of VMware internal cloud with CPU and GPU support. The service has user-friendly interface and consists of several micro services to launch TensorFlow container to train models. It aims to manage large computing resources in a center place to reduce company costs; it saves time for developers and data scientists to configure distributed machine learning platform. We present experiments on the performance comparison between CPU, GPU, multiple CPUs on our service.
 
-# References
-
-[[1] Attention Is All You Need](https://arxiv.org/abs/1706.03762)\
-[[2] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)\
-[[3] RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)\
+# Reading Materials
+[[1] Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473)\ 
+[[2] Attention Is All You Need](https://arxiv.org/abs/1706.03762)\
+[[3] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)\
 [[4] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)\
-[[5] Attention is not Explaination](https://aclanthology.org/N19-1357/)\
-[[6] Attention is not not Explaination](https://arxiv.org/abs/1908.04626)
+[[5] RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)\
+[[6] Distilling the knowledge in a neural network](https://arxiv.org/abs/1503.02531)\
+[[7] DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)\
+[[8] Attention is not Explaination](https://aclanthology.org/N19-1357)\
+[[9] Attention is not not Explaination](https://arxiv.org/abs/1908.04626)\
+[[10] CausaLM: Causal Model Explanation Through Counterfactual Language Models](https://arxiv.org/abs/2005.13407)\
+[[11] Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)\
+[[12] LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
