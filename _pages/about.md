@@ -49,4 +49,5 @@ I joined VMware SH in 2016 after receiving my Master's degree of Software Engine
 [[9] Attention is not not Explaination](https://arxiv.org/abs/1908.04626)\
 [[10] CausaLM: Causal Model Explanation Through Counterfactual Language Models](https://arxiv.org/abs/2005.13407)\
 [[11] Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)\
-[[12] LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+[[12] LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)\
+[[13] Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
